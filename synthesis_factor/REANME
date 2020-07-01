@@ -1,0 +1,9 @@
+This code is created by 陈梦玄.
+1. synthesis_factor.py is to synthesis factors according to the method set.
+2. synthesis_factor_all_method.py is to synthesis factors for all method. The logic is the same with 1.
+3. synthesis_factor_all_method_shrink_10.py is to synthesis 10 factors for all method. The logic is the same with 1.
+4. single_factor_for_methods.py is to test the synthesised factor. 
+5. utils.py, datareader.py, getTradingDate.py, MAC_RP.py are to assist. 
+6. The result folder has the total results which are already been rearranged.
+
+This README is created in 2020/6/30
